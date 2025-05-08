@@ -1,0 +1,2 @@
+# seaborn
+This repository provides a structured and practical approach to learning Seaborn, a powerful Python data visualization library built on top of Matplotlib. It includes detailed lecture notebooks, hands-on exercises, and projects that demonstrate how to create informative and aesthetically pleasing statistical graphics using real-world datasets. Ideal for students and data science enthusiasts seeking to enhance their visual storytelling capabilities in Python.
